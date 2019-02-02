@@ -52,3 +52,4 @@ Just run ``python3 demo.py`` to see the results:
 To visulaze your Graph in tensorboard just run ``tensorboard --logdir=/tmp/mnist_tutorial/``
 wich the path depends on what you have set in the code "Logdir"
 
+## My Result  : 91.74 % 
