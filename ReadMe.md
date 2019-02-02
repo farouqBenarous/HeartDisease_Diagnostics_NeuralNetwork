@@ -34,7 +34,7 @@ Target 1 or 0  binary classification
  
 
 ##### how  the prediction works ?
-So first to to train my model I have too a dataset bunch of examples of Cells whather its benign of malignant and then 
+So first to to train my model I have too a dataset bunch of examples of persones whather they ill or not and then 
 train my model with it after I finished the training you get the Best optimal  parameters  to make the predictions 
 
 
